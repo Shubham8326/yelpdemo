@@ -29,8 +29,3 @@
 # To learn more, please read the Rails Internationalization guide
 # available at https://guides.rubyonrails.org/i18n.html.
 
-
-aws_access_key_id: 'AKIA4TLL26AYDYAHRM6O'
-aws_secret_access_key: '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'
-fog_directory: 'yelpdemoshubham3'
-
